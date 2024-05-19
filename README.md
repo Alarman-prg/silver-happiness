@@ -1,2 +1,15 @@
 # silver-happiness
-Random web/server thoughts. Looking at react or angular combined with tailwind or bootstrap for front end and looking at python Django or Node.js.
+
+## Random web/server thoughts.
+### Front End
+#### Framework
+> React
+> Angular
+#### CSS
+> Tailwind
+> Bootstrap
+### Back End
+> Django  (python) {First}
+> Flask   (python)
+> Node.js
+> PHP
